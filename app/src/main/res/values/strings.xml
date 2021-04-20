@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppMVP</string>
+    <string name="edt">Ingresar lado del cuadrado</string>
+    <string name="btn">Calcular área</string>
+</resources>
